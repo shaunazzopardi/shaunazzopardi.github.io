@@ -10,6 +10,13 @@ body {
     display: none;
 }
 
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 24px;
+    padding-left: 24px;
+}
+
 .ai, .fab {
     display: inline-block;
     vertical-align: middle;
