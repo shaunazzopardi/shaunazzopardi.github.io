@@ -16,3 +16,11 @@ body {
     padding-right: 24px;
     padding-left: 24px;
 }
+
+i {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
