@@ -36,9 +36,8 @@ h4 {
     }
 }
 
-
 @media (max-width: 767px) {
     #links, #name{
-        text-align: center;
+        text-align: left;
     }
 }
